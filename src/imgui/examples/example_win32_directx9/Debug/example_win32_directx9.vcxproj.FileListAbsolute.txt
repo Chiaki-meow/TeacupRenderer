@@ -1,0 +1,2 @@
+C:\Academic\GitHub\imgui\examples\example_win32_directx9\Debug\example_win32_directx9.exe
+C:\Academic\GitHub\imgui\examples\example_win32_directx9\Debug\example_win32_directx9.pdb

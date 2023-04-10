@@ -1,0 +1,2 @@
+C:\Academic\GitHub\imgui\examples\example_glfw_opengl3\Debug\example_glfw_opengl3.exe
+C:\Academic\GitHub\imgui\examples\example_glfw_opengl3\Debug\example_glfw_opengl3.pdb
