@@ -13,3 +13,8 @@ mkdir build
 cd build
 
 cmake .
+
+示例图
+![image](https://github.com/user-attachments/assets/ce88973c-93fa-4b51-9344-c652c8b39188)
+
+![image](https://github.com/user-attachments/assets/d7d9cad9-5ddc-490a-b193-4da2f2b5672f)
